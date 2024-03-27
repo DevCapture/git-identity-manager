@@ -85,3 +85,7 @@ git-clone <git-repository-ssh-url>
 ```
 
 Select an identity from your configuration to ensure correct profile usage for your projects.
+
+<img src="img/profiles.png" alt="select git profile">
+
+> Important: Currently supported only SSH URL
